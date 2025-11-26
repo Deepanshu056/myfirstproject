@@ -1,0 +1,62 @@
+{
+  "1.0.0": {
+    "date": "2025-11-26",
+    "changes": {
+      "added": [
+        "i have added a new feature"
+      ],
+      "fixed": [],
+      "improved": []
+    }
+  },
+  "1.0.1": {
+    "date": "2025-11-26",
+    "changes": {
+      "added": [],
+      "fixed": [
+        " i have fixed lag issues "
+      ],
+      "improved": []
+    }
+  },
+  "1.0.2": {
+    "date": "2025-11-26",
+    "changes": {
+      "added": [],
+      "fixed": [],
+      "improved": [
+        " i have improved screen time "
+      ]
+    }
+  },
+  "1.0.3": {
+    "date": "2025-11-26",
+    "changes": {
+      "added": [],
+      "fixed": [],
+      "improved": [
+        " i have improved screen time "
+      ]
+    }
+  },
+  "1.0.4": {
+    "date": "2025-11-26",
+    "changes": {
+      "added": [
+        "Test: CI changelog update"
+      ],
+      "fixed": [],
+      "improved": []
+    }
+  },
+  "1.0.5": {
+    "date": "2025-11-26",
+    "changes": {
+      "added": [
+        "Test: CI changelog update"
+      ],
+      "fixed": [],
+      "improved": []
+    }
+  }
+}
