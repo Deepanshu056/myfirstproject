@@ -19,9 +19,6 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Install dependencies
-        run: npm install
-
       - name: Run Release Script
         run: npm run release -- added "CI: Auto Release by GitHub Actions"
 
